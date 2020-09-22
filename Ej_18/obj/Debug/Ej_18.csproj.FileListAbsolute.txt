@@ -1,0 +1,7 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\bin\Debug\Ej_18.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\bin\Debug\Ej_18.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\bin\Debug\Ej_18.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\obj\Debug\Ej_18.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\obj\Debug\Ej_18.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\obj\Debug\Ej_18.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_18\obj\Debug\Ej_18.pdb

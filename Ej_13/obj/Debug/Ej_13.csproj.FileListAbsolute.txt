@@ -1,0 +1,7 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\bin\Debug\Ej_13.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\bin\Debug\Ej_13.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\bin\Debug\Ej_13.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\obj\Debug\Ej_13.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\obj\Debug\Ej_13.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\obj\Debug\Ej_13.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_13\obj\Debug\Ej_13.csprojAssemblyReference.cache

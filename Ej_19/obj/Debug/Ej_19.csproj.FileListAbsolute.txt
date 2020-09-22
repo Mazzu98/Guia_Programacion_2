@@ -1,0 +1,7 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\bin\Debug\Ej_19.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\bin\Debug\Ej_19.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\bin\Debug\Ej_19.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\obj\Debug\Ej_19.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\obj\Debug\Ej_19.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\obj\Debug\Ej_19.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\Ejercicios Guia\Ej_19\obj\Debug\Ej_19.pdb

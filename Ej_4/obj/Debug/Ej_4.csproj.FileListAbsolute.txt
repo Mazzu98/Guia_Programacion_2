@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\Ej_4\bin\Debug\Ej_4.exe.config
+C:\Users\Administrador\source\repos\Ej_4\bin\Debug\Ej_4.exe
+C:\Users\Administrador\source\repos\Ej_4\bin\Debug\Ej_4.pdb
+C:\Users\Administrador\source\repos\Ej_4\obj\Debug\Ej_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Ej_4\obj\Debug\Ej_4.exe
+C:\Users\Administrador\source\repos\Ej_4\obj\Debug\Ej_4.pdb
